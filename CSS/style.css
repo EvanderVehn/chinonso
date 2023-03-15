@@ -1,0 +1,39 @@
+* {
+   box-sizing: border-box;
+   padding: 0px;
+   margin: 0px;
+}
+
+body{
+ background-color: hsl(358, 46%, 89%);
+}
+.box {
+   width: 20%;
+   height: 400px;
+   background-color: hsl(0, 0%, 100%);
+   position: absolute;
+   left: 500px;
+   margin: 50px;
+   border-radius: 15px;
+}
+
+img {
+   height: 250px;
+   margin: 10px;
+   border-radius: 5px;
+
+}
+.skills{
+    text-align: center;
+    margin: 0px 20px;
+    font-size: 18px;
+    padding: 5px 10px;
+    font-weight: 700;
+    font-family: outfit;
+  }
+.scan{
+   text-align: center;
+   font-size: 15px;
+   padding: 10px;
+   color: hsl(220, 15%, 55%)
+}
